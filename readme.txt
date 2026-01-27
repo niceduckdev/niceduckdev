@@ -1,7 +1,5 @@
 == about me ==
-Quack! My name is niceduckdev.
+My name is Kaj and I'm a student at KdG in Antwerp. I love creating websites, software and other technological stuff. 
 
-I am a student at KdG in Antwerp and I love making games, websites and spending time creating other technological stuff.
-
-== follow me ==
-You can follow my progress as a software developer on https://niceduck.dev.
+== contact ==
+Contact me via `contact@niceduck.dev` and check out my portfolio on `niceduck.dev`.
