@@ -6,4 +6,4 @@ I recently graduated with a bachelor's degree in Applied Computer Science from K
 
 I love building **backend services** (monolithic and microservices) that are **scalable** and **robust**. On the frontend, I implement **responsive and intuitive interfaces** (web and mobile).
 
-You can read more about me via [my portfolio](https://niceduck.dev).
+You can read more about me via [my portfolio](https://niceduck.dev/articles/about-me).
